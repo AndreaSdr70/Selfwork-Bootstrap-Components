@@ -1,0 +1,23 @@
+*{
+    font-family: "Roboto Condensed", sans-serif;
+
+}
+
+.bg-custom{
+    background-color: aqua;
+}
+
+
+
+
+.header-custom{
+    background-image: url(./media/food\ umbria.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.min-vh-100{
+    min-height: 100vh;
+}
+
